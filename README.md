@@ -1,0 +1,2 @@
+# MPJ_ARIMA-ARCH
+미니프로잭트_ARIMA,ARCH
