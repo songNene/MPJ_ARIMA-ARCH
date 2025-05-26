@@ -1,6 +1,6 @@
-# Mini Project: Time Series Forecasting using ARIMA & ARCH
+# Mini Project: ARIMA & ARCH
 
-시계열 데이터를 활용하여 예측 모델을 구성하고, ARIMA 및 ARCH(GARCH 포함) 모델을 적용해 시계열 패턴과 분산을 효과적으로 모델링한 프로젝트입니다.
+시계열 데이터를 활용하여 예측 모델을 구성하고, ARIMA 및 ARCH(GARCH 포함) 모델을 적용해 모델링한 프로젝트입니다.
 
 ---
 
